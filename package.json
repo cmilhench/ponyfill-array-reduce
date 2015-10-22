@@ -1,0 +1,23 @@
+{
+  "name": "ponyfill-array-reduce",
+  "version": "1.0.0",
+  "description": "ES6 Array.reduce() ponyfill",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmilhench/ponyfill-array-reduce.git"
+  },
+  "keywords": [
+    "array",
+    "reduce",
+    "ponyfill",
+    "polyfill"
+  ],
+  "author": "Colin Milhench <colin@milhen.ch> (http://milhen.ch/)",
+  "license": "MIT"
+}
